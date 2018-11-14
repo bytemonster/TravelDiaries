@@ -20,7 +20,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Travel Diaries"
 description: "A small Blog for my travels"
-baseurl: "/TravelDiaries"
+baseurl: "/TravelDiaries/"
 url: "http://travel-diari.es"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
