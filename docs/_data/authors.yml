@@ -1,15 +1,10 @@
 # Authors
 
 Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  name: Nefeli Kousi
+  picture: /images/Nefeli.jpg
+  twitter: "@ByteMonster"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/ByteMonster
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
