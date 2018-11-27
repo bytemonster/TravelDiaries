@@ -22,7 +22,7 @@ title: "Travel Diaries"
 description: "A small Blog for my travels!"
 baseurl: "/TravelDiaries"
 url: "http://travel-diari.es"
-#logo: "/images/so-simple-site-logo.png"
+logo: "/images/travel_diaries_logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
