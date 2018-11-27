@@ -105,7 +105,7 @@ author:
       icon: fab fa-facebook-square
     - title: Instagram
       url: https://www.instagram.com/nefelikousi/
-      icon: fab fa-instagram-square
+      icon: fab fa-instagram
 
 # Footer Links
 footer_links:
@@ -117,7 +117,7 @@ footer_links:
     icon: fab fa-facebook-square
   - title: Instagram
     url: https://www.instagram.com/nefelikousi/
-    icon: fab fa-instagram-square
+    icon: fab fa-instagram
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
