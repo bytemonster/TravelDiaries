@@ -98,20 +98,26 @@ author:
   twitter: 
   links:
     - title: Twitter
-      url: https://twitter.com/mmistakes
+      url: https://twitter.com/ByteMonster
       icon: fab fa-twitter-square
+    - title: FaceBook
+      url: https://www.facebook.com/nefeli.kousi
+      icon: fab fa-facebook-square
     - title: Instagram
-      url: https://instagram.com/mmistakes
-      icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/mmistakes
-      icon: fab fa-github-square
+      url: https://www.instagram.com/nefelikousi/
+      icon: fab fa-instagram-square
 
 # Footer Links
 footer_links:
+  - title: Twitter
+      url: https://twitter.com/ByteMonster
+      icon: fab fa-twitter-square
+  - title: FaceBook
+      url: https://www.facebook.com/nefeli.kousi
+      icon: fab fa-facebook-square
   - title: Instagram
-    url: https://www.instagram.com/nefelikousi
-    icon: fab fa-instagram
+      url: https://www.instagram.com/nefelikousi/
+      icon: fab fa-instagram-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
