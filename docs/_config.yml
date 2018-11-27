@@ -110,14 +110,14 @@ author:
 # Footer Links
 footer_links:
   - title: Twitter
-      url: https://twitter.com/ByteMonster
-      icon: fab fa-twitter-square
+    url: https://twitter.com/ByteMonster
+    icon: fab fa-twitter-square
   - title: FaceBook
-      url: https://www.facebook.com/nefeli.kousi
-      icon: fab fa-facebook-square
+    url: https://www.facebook.com/nefeli.kousi
+    icon: fab fa-facebook-square
   - title: Instagram
-      url: https://www.instagram.com/nefelikousi/
-      icon: fab fa-instagram-square
+    url: https://www.instagram.com/nefelikousi/
+    icon: fab fa-instagram-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
