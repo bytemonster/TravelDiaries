@@ -22,7 +22,7 @@ title: "Travel Diaries"
 description: "A small Blog for my travels!"
 baseurl: "/TravelDiaries"
 url: "http://travel-diari.es"
-logo: "/images/so-simple-site-logo.png"
+#logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
@@ -52,7 +52,7 @@ search_full_content: false
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+#tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
