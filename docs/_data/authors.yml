@@ -1,0 +1,15 @@
+# Authors
+Nefeli Kousi:
+  name: Nefeli Kousi
+  picture: /images/Nefeli.jpg
+  twitter: "@ByteMonster"
+  links:
+    - title: Twitter
+      url: https://twitter.com/ByteMonster
+      icon: fab fa-twitter-square
+    - title: FaceBook
+      url: https://www.facebook.com/nefeli.kousi
+      icon: fab fa-facebook-square
+    - title: Instagram
+      url: https://www.instagram.com/nefelikousi/
+      icon: fab fa-instagram
