@@ -21,7 +21,7 @@ locale: en-US
 title: "Travel Diaries"
 description: "A small Blog for my travels!"
 baseurl: ""
-url: "http://travel-diari.es"
+url: ""
 logo: "/images/travel_diaries_logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
